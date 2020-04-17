@@ -1,4 +1,4 @@
-# ExpansionHunter: Dockerfile to create ExpansionHunter images
+# DECoN: Dockerfile to create DECoN images
 
 It assumes Docker is correctly installed on your system  
 
