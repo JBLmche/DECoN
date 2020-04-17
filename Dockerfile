@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y \
     libxt-dev \
     libssl-dev \
     libssh2-1-dev \
-	  git
+    git
 
 
 ### install R packages required
